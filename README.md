@@ -1,7 +1,5 @@
-# Run_Game
-##################################
-Infinite Run and Jump Bird Game
-##################################
+
+# Infinite Run and Jump Bird Game
 Use Up Arrow to Jump
 Use Spacebar to Respawn
 Use ESC to exit
